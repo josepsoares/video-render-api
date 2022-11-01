@@ -65,12 +65,6 @@ $ git clone *url of the repository*
 $ go test ./pkg/render -run ConcatTest
 ```
 
-#### Concat videos with a preset template and assets
-
-```bash
-$ go test ./pkg/render -run ConcatTemplateTest
-```
-
 #### Concat high-load stress test with preset assets
 
 ```bash
