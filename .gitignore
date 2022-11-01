@@ -4,7 +4,6 @@
 /build
 /consumer
 /logs/*
-assets/tmp/*
 
 .env
 .env.dev
